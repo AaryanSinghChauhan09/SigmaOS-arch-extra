@@ -1,4 +1,4 @@
-# SigmaOS-arch-extra
+# SigmaOS-extra
 
 GitHub description is a placeholder; component scope remains unclassified.
 

@@ -1,10 +1,10 @@
 [package]
-name = "arch-extra"
+name = "sigmaos-extra"
 version = "0.1.0"
 edition = "2021"
-description = "SigmaOS SigmaOS-arch-extra component - SigmaOS component"
+description = "SigmaOS SigmaOS-extra component - SigmaOS component"
 license = "MIT"
-repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-extra"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-extra"
 
 [dependencies]
 thiserror = "2"
